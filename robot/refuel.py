@@ -5,4 +5,11 @@ from tealight.robot import (move,
                             smell, 
                             left_side, 
                             right_side)
-move(2)
+move()
+turn()
+look()
+touch()
+smell()
+left_side()
+right_side()
+
