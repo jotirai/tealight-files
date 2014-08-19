@@ -19,7 +19,7 @@ def  go():
       if touch() == "fruit":
         go()
         
-turn(1)
+      turn(1)
       for i in range (0,moved):
         move()
         turn (2)
